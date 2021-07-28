@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Dhairya Shah!
 
 <!--
 **DhairyaShah01/DhairyaShah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Computer Science and Engineering Student at Birla Institute of Technology and Science(BITS), Pilani.
+I am a Web Development Enthusiast.
+My interest lies in front end development.
+<p align="center">  🛠️ Languages & Frameworks </p>
+<hr>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
